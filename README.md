@@ -1,2 +1,0 @@
-# ruletapollofeliz
-Ruleta de premios
